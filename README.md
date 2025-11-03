@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/testimonials-page-using-css-grid-MJlQ8Ac2kg](https://www.frontendmentor.io/solutions/testimonials-page-using-css-grid-MJlQ8Ac2kg)
-- Live Site URL: [https://adyan5786.github.io/Testimonials-Page-using-CSS-Grid/](https://adyan5786.github.io/Testimonials-Page/)
+- Live Site URL: [https://adyan5786.github.io/Testimonials-Page/](https://adyan5786.github.io/Testimonials-Page/)
 
 ## My process
 
