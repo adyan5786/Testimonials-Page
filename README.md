@@ -47,7 +47,7 @@ I've learned how to use CSS Grid as well as somewhat of Flexbox while coding thi
 
 ### Continued development
 
-CSS in general is something I'm very new to, so I will be mostly focusing more on the CSS side of things while trying to perfect the HTML language.
+CSS in general is something I'm very new to, so I will mostly be focusing more on the CSS side of things while trying to perfect the HTML language.
 
 ## Author
 
@@ -56,4 +56,4 @@ CSS in general is something I'm very new to, so I will be mostly focusing more o
 
 ## Acknowledgments
 
-This project was done while learning the CSS Grid Crash Course from Brad Traversy (YouTube Channel: Traversy Media)
+This project was done while learning the CSS Grid Crash Course from Brad Traversy (YouTube Channel: [Traversy Media](https://www.youtube.com/@TraversyMedia))
